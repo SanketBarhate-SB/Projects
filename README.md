@@ -1,4 +1,4 @@
-# Power BI projects# Project Title
+PROJECTS
 
 Overview
 This projects utilizes data management and visualization tools to provide insights and actionable information.
